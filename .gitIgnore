@@ -1,0 +1,19 @@
+node_modules/
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.node_repl_history
+.env
+# IDE / Editor
+.idea
+
+# Service worker
+sw.*
+
+# macOS
+.DS_Store
+
+# Vim swap files
+*.swp
